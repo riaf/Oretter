@@ -69,6 +69,14 @@ h1 a, #statuses .message p.id a {
   font-family: 'Georgia', 'Serif';
 }
 
+#pager {
+  text-align: center;
+  margin: 10px;
+}
+#pager a, #pager strong {
+  margin: 2.5px;
+}
+
 #footer {
   text-align: center;
 }
